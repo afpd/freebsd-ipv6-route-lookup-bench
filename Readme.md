@@ -1,3 +1,4 @@
+```
 [root@freebsd-01 ~/route-bench-kmod-6]# make
 Warning: Object directory not changed from original /root/route-bench-kmod-6
 [root@freebsd-01 ~/route-bench-kmod-6]# kldunload -v ./route6-bench-kmod.ko
@@ -21,5 +22,4 @@ Took 0 sec and 19175900 nanosec
 LKM Loaded
 Loaded ./route6-bench-kmod.ko, id=5
 [root@freebsd-01 ~/route-bench-kmod-6]#
-
-
+```
